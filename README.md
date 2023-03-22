@@ -2,10 +2,6 @@
 
 **A Wood Harvester Simulator inside FS22!**
 
-## Current Status
-
-This mod is still in development so there may be bugs and unfinished features.
-
 ## Publishing
 
 Only BargonMods is allowed to publish this mod to any site.
@@ -15,11 +11,11 @@ I've spent hundreds of hours of my free time developing this so please don't be 
 
 Go to the [releases page](https://github.com/BargonMods/FS22_WoodHarvesterControls/releases) and download the latest version.
 
-I have also added some edited in-game harvesters to support 100% of the features.
+I have also added some edited in-game harvesters to support 100% of the features (in the first release).
 
 ## Multiplayer
 
-Multiplayer is not supported for now.
+Multiplayer is 100% supported.
 
 ## Links
 
@@ -37,7 +33,7 @@ Scripting mods are not allowed on console so it's only for pc.
 
 **Translations**
 
-It is currently only in English.
+It is currently in English, German, Swedish, Norwegian, Finnish and Spanish.
 
 If you want to contribute with a translation contact me through my [Discord Server](https://discord.com/invite/BhaYevpxjg).
 
