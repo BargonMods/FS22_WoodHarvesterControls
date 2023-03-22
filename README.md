@@ -2,6 +2,8 @@
 
 **A Wood Harvester Simulator inside FS22!**
 
+[![Wood Harvester Controls Mod - Available on the Official ModHub](https://img.youtube.com/vi/m3phoaZT7UQ/0.jpg)](https://youtu.be/m3phoaZT7UQ "Wood Harvester Controls Mod - Available on the Official ModHub")
+
 ## Publishing
 
 Only BargonMods is allowed to publish this mod to any site.
